@@ -1,3 +1,5 @@
+import aishaPhoto from "../assets/aisha-photo.jpg";
+
 export const profile = {
   name: "Aisha Abdirahman Abukar",
   eyebrow: "ECONOMIST · POLICY ANALYST · COMMUNITY LEADER",
@@ -9,8 +11,8 @@ export const profile = {
   location: "Mogadishu, Somalia",
   email: "aishaabukar457@gmail.com",
   phone: "+252 617367484",
-  photo: "/aisha-photo.jpg",
-  cvFile: "/Aisha-Abdirahman-Abukar-CV.pdf",
+  photo: aishaPhoto,
+  cvFile: `${import.meta.env.BASE_URL}Aisha-Abdirahman-Abukar-CV.pdf`,
 };
 
 export const qualities = [
