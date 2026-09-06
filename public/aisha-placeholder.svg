@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <rect width="600" height="600" fill="#0B1E3F"/>
+  <circle cx="300" cy="230" r="110" fill="#D4A537" opacity="0.25"/>
+  <circle cx="300" cy="220" r="90" fill="#FDFBF7" opacity="0.9"/>
+  <rect x="150" y="360" width="300" height="220" rx="150" fill="#FDFBF7" opacity="0.9"/>
+  <text x="300" y="560" font-family="Georgia, serif" font-size="22" fill="#D4A537" text-anchor="middle">Aisha Abdirahman Abukar</text>
+</svg>
