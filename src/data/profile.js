@@ -9,7 +9,7 @@ export const profile = {
   location: "Mogadishu, Somalia",
   email: "aishaabukar457@gmail.com",
   phone: "+252 617367484",
-  photo: "/aisha-placeholder.svg",
+  photo: "/aisha-photo.jpg",
   cvFile: "/Aisha-Abdirahman-Abukar-CV.pdf",
 };
 

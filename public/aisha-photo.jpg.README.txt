@@ -1,1 +1,0 @@
-Place Aisha's portrait photo here as "aisha-photo.jpg" (referenced by src/data/profile.js -> profile.photo).
